@@ -70,9 +70,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -153,7 +153,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-#avatar:
+avatar: /images/header-img.png
 
 
 # Table Of Contents in the Sidebar
@@ -217,7 +217,7 @@ post_meta:
   created_at: true
   updated_at: false
   categories: true
-  
+
 # Post wordcount display settings
 # Dependies: https://github.com/willin/hexo-wordcount
 post_wordcount:
@@ -392,7 +392,7 @@ busuanzi_count:
 # tencent_analytics:
 
 # Tencent MTA ID
-# tencent_mta: 
+# tencent_mta:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
