@@ -367,7 +367,7 @@ vkontakte_api:
 #阅读量统计
 leancloud_visitors:
   enable: true
-  app_id: u2gJTcuqavSwCdEsRwQE0tjd-gzGzoHsz-gzGzoHsz
+  app_id: u2gJTcuqavSwCdEsRwQE0tjd-gzGzoHsz
   app_key: sVNL8thqtOPCvv0nNxUrFvX6
 
 # Show PV/UV of the website/page with busuanzi.
